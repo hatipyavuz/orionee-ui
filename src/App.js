@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Orion EE
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://orionee.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          visit main site
         </a>
       </header>
     </div>
